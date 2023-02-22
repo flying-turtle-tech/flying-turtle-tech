@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @flying-turtle-tech
-- 👀 I’m interested in mobile app development
-- 🌱 I’m currently learning SwiftUI
+- 👀 I’m interested in mobile and web app development
+- 🌱 I’m currently learning Angular!
 - 💞️ I’m looking to collaborate on fun and exciting projects
 - 📫 How to reach me jkovach720@gmail.com
 
